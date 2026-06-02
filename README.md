@@ -28,6 +28,7 @@ Built completely using HTML, CSS, and Vanilla JavaScript without any frontend fr
 📰 Newsletter subscription section
 🎴 3D card tilt interactions
 🌸 Beautiful gradient effects and typography
+
 🛠️ Tech Stack
 HTML5
 CSS3
